@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Verificadores
+comment1.params=letra
+comment1.target=boolean\ ehLetradoAlfabetoAZ(char)
+comment2.params=letra
+comment2.target=boolean\ ehVogal(char)
+comment3.params=letra
+comment3.target=boolean\ ehConsoante(char)
+comment4.params=nome\ nomeInvertido
+comment4.target=java.lang.String\ ehPalindromo(java.lang.String,\ java.lang.String)
+comment5.params=letra
+comment5.target=boolean\ ehNumero(char)
+comment6.params=letra
+comment6.target=boolean\ ehSimbulo(char)
+comment7.params=dia\ mes\ ano
+comment7.target=java.lang.String\ ehDataValida(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=ano
+comment8.target=java.lang.String\ ehAnoBissexto(java.lang.String)
+comment9.params=num
+comment9.target=int\ converteStringParaInt(java.lang.String)
+numComments=10

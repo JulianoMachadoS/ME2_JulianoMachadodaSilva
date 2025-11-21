@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Removedores
+comment0.text=\r\nNome\:\ Juliano\ Machado\ da\ Silva\r\nNumero\ de\ Matr\u00EDcula\:\ 25108646-8\r\n
+comment1.params=texto
+comment1.target=java.lang.String\ removeEspacosDuplos(java.lang.String)
+comment2.params=texto
+comment2.target=java.lang.String\ removeEspacosInicioFim(java.lang.String)
+comment3.params=texto
+comment3.target=java.lang.String\ removeEspacos(java.lang.String)
+comment4.params=texto
+comment4.target=java.lang.String\ removeNumeros(java.lang.String)
+comment5.params=texto
+comment5.target=java.lang.String\ removeSimbulos(java.lang.String)
+comment6.params=texto
+comment6.target=java.lang.String\ removeLetras(java.lang.String)
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Contadores
+comment0.text=\r\nNome\:\ Juliano\ Machado\ da\ Silva\r\nNumero\ de\ Matr\u00EDcula\:\ 25108646-8\r\n
+comment1.params=texto
+comment1.target=java.lang.String\ contaLetras(java.lang.String)
+comment2.params=texto
+comment2.target=java.lang.String\ contaVogais(java.lang.String)
+comment3.params=texto
+comment3.target=java.lang.String\ contaConsoantes(java.lang.String)
+comment4.params=texto
+comment4.target=java.lang.String\ contaNumeros(java.lang.String)
+comment5.params=num1\ num2
+comment5.target=java.lang.String\ somaString(java.lang.String,\ java.lang.String)
+numComments=6
